@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "VirtualBox", "VirtualBox\VirtualBox.njsproj", "{84FE05C4-87D8-432F-AA6A-E13716023F07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84FE05C4-87D8-432F-AA6A-E13716023F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FE05C4-87D8-432F-AA6A-E13716023F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FE05C4-87D8-432F-AA6A-E13716023F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FE05C4-87D8-432F-AA6A-E13716023F07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F09FB544-9F04-46FE-9206-F6CCBDA6E340}
+	EndGlobalSection
+EndGlobal
